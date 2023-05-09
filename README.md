@@ -1,4 +1,4 @@
-# Productor-Consumidor-Multprocessing
+# Problema del Productor-Consumidor
 
 Queremos tener distintos productores produciendo de manera paralela números aleatorios en orden creciente. A su vez, tenemos un consumidor que irá consumiendo el menor número producido por los productores y añadiendolo a una lista. El esquema es el siguiente:
 
